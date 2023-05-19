@@ -1,0 +1,29 @@
+body{
+    background-color:#875f87;
+}
+h1{
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    font-family: verdana;
+}
+.main_button{
+    text-align: center;
+    font: optional;
+}
+.main_button button {
+    color: #ffffff;
+    height: 35px;
+    width: 250px;
+    font-size: 23px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    background: #453f45;   
+}
+.main_button :hover{
+    background-position: right;
+}
